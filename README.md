@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+!https://circleci.com/github/5r33/MicroservicesProjectC.svg?style=svg!:<LINK>
 
 ## Project Overview
 
