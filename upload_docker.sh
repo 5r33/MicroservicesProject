@@ -13,7 +13,7 @@ dockerpath="nairsreenesh/projectuda"
 echo "Docker ID and Image: $dockerpath"
 
 docker tag projectuda nairsreenesh/projectuda
-docker login -u nairsreenesh -p Infosys@002
+docker login -u nairsreenesh -p <>
 # Step 3:
 # Push Image
 docker push $dockerpath
